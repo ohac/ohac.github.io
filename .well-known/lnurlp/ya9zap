@@ -3,7 +3,7 @@
   "tag": "payRequest",
   "commentAllowed": 255,
   "callback": "https://getalby.com/lnurlp/morningwildflower84764/callback",
-  "metadata": "[[\"text/identifier\",\"ohac@www.sighash.info\"],[\"text/plain\",\"Sats for ohac\"]]",
+  "metadata": "[[\"text/identifier\",\"ya9zap@www.sighash.info\"],[\"text/plain\",\"Sats for ya9zap\"]]",
   "minSendable": 1000,
   "maxSendable": 500000000,
   "payerData": {
@@ -17,6 +17,6 @@
       "mandatory": false
     }
   },
-  "nostrPubkey": "79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
+  "nostrPubkey": "274a2e8797b5c9b12268223edc680fd5815e2c84c835d96c06dfe36b7d4fa353",
   "allowsNostr": true
 }
